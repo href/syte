@@ -27,6 +27,9 @@ You can use, reproduce and do whatever you want with syte but I would like you t
 [![markwatson](https://github.com/rigoneri/syte/blob/master/readme-imgs/mrkrwtsn.png?raw=true)](http://markwatson.us)
 [![manavo](https://github.com/rigoneri/syte/blob/master/readme-imgs/manavo.png?raw=true)](http://manavo.com)
 [![rshepherd](https://github.com/rigoneri/syte/blob/master/readme-imgs/rshepherd.png?raw=true)](http://rshepherd.org)
+[![wavendano](https://github.com/rigoneri/syte/blob/master/readme-imgs/wavendano.png?raw=true)](http://willieavendano.me)
+[![yurytsukerman](https://github.com/rigoneri/syte/blob/master/readme-imgs/yurytsukerman.png?raw=true)](http://yurytsukerman.com)
+[![javisoto](https://github.com/rigoneri/syte/blob/master/readme-imgs/javisoto.png?raw=true)](http://www.javisoto.es)
 
 
 ## Social Integrations
@@ -250,7 +253,7 @@ sudo npm install less -g
 sudo npm install uglify-js -g
 ```
 
-`Note` be sure to create the directories `syte > static > css` and `syte > static > js > min` first if it doesn't already exist.
+`Note` windows users be sure to create the directories `syte > static > css` and `syte > static > js > min` first if it doesn't already exist.
 
 Then whenever you want to release a new version of static update the `COMPRESS_REVISION_NUMBER` in **syte-settings.py** and run the compress python command from your syte directory:
 
