@@ -1,0 +1,32 @@
+List of services to add integration for:
+
+    - Twitter [DONE]
+    - Github [DONE]
+    - Dribbble [DONE]
+    - Instagram [DONE]
+    - Tumblr [DONE]
+    - Foursquare [DONE]    
+    - Last.fm [DONE]
+    - Wordpress [DONE]
+    - Bitbucket [DONE]
+    - Stack Overflow [DONE]
+    - Steam [DONE]
+    - Soundcloud [DONE]
+    - Tent.io [DONE]
+    - Facebook
+    - LinkedIn
+    - Youtube
+    - Netflix
+    - Flickr [DONE]
+    - Picasa
+    - Rdio
+    - Spotify
+    - Etsy
+    - Fitbit
+    - Slideshare
+    - Quora
+    - trakt
+    - Google+
+    - Posterous Spaces
+    - viewbook.com
+
