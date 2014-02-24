@@ -1,5 +1,5 @@
 DEPLOYMENT_MODE = 'dev'
-COMPRESS_REVISION_NUMBER = '1.1'
+COMPRESS_REVISION_NUMBER = '1.0'
 
 BLOG_PLATFORM = 'tumblr'  # Wordpress or tumblr
 
