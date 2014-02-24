@@ -62,7 +62,7 @@ function renderBlogPosts(posts) {
         });
 
         adjustBlogHeaders();
-        prettyPrint();
+        $('pre').addClass('prettyprint') && prettyPrint();
         setTimeout(setupBlogHeaderScroll, 1000);
         adjustSelection('home');
 
